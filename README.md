@@ -14,6 +14,6 @@ $ git clone https://github.com/Monkey0108/Webpack.git
 Install the dependencies.
 
 ```bash
-$ cd webpack_code
+$ cd webpack_multi
 $ npm install
 ```
